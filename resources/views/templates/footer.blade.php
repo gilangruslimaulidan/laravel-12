@@ -392,6 +392,7 @@
   sparkline('#sparkline-3', [15, 19, 20, 22, 33, 27, 31, 27, 19, 30, 21]);
 </script>
 <!--end::Script-->
+@stack('script')
 </body>
 <!--end::Body-->
 

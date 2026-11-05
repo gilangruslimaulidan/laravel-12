@@ -793,6 +793,13 @@
                     </a>
                 </li>
 
+                <li class="nav-item">
+                    <a href="{{ url('products') }}" class="nav-link">
+                        <i class="nav-icon bi bi-circle"></i>
+                        <p>Products</p>
+                    </a>
+                </li>
+
                 <li class="nav-header">EXAMPLES</li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">

@@ -105,6 +105,8 @@
         href="https://cdn.jsdelivr.net/npm/jsvectormap@1.7.0/dist/jsvectormap.min.css"
         integrity="sha256-Zshqz6X+Rs2Rf5sPtiSba+rwLBL1ZTyLBppbYOstR9M="
         crossorigin="anonymous" />
+
+    @stack('style')
 </head>
 <!--end::Head-->
 <!--begin::Body-->
